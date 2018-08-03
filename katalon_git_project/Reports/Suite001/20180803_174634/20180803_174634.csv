@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Suite001,Firefox 61.0,,2018-08-03 17:46:37,2018-08-03 17:46:58,"21,023s",PASSED
+,,,,,,
+Test Cases/TC_001,Firefox 61.0,,2018-08-03 17:46:37,2018-08-03 17:46:57,"20,473s",PASSED
+openBrowser,Firefox 61.0,,2018-08-03 17:46:37,2018-08-03 17:46:46,"8,159s",PASSED
+navigateToUrl,Firefox 61.0,,2018-08-03 17:46:46,2018-08-03 17:46:53,"7,629s",PASSED
+verifyElementVisible,Firefox 61.0,,2018-08-03 17:46:53,2018-08-03 17:46:54,"0,865s",PASSED
+selectOptionByValue,Firefox 61.0,,2018-08-03 17:46:54,2018-08-03 17:46:57,"2,665s",PASSED
+verifyElementVisible,Firefox 61.0,,2018-08-03 17:46:57,2018-08-03 17:46:57,"0,124s",PASSED
+closeBrowser,Firefox 61.0,,2018-08-03 17:46:57,2018-08-03 17:46:57,"0,623s",PASSED

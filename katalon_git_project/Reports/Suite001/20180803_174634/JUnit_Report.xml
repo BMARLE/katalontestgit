@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Suite001" time="21" tests="1" failures="0" errors="0">
+   <testsuite name="Suite001" tests="1" failures="0" errors="0" time="21" timestamp="2018-08-03 17:46:37" hostname="a124942 - FR-MP1C7NJH.ww930.my-it-solutions.net" id="Test Suites/Suite001">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\A124942\\Desktop\\katalon_git\\katalon_git_project\\Reports\\Suite001\\20180803_174634"/>
+         <property name="logFiles" value="C:\\Users\\A124942\\Desktop\\katalon_git\\katalon_git_project\\Reports\\Suite001\\20180803_174634\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="a124942 - FR-MP1C7NJH.ww930.my-it-solutions.net"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.6.0.1"/>
+         <property name="browser" value="Firefox 61.0"/>
+         <property name="hostAddress" value="10.89.192.52"/>
+         <property name="sessionId" value="58e5ad35-9a22-4a3f-98d7-5b12af1276ef"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=USE_SYSTEM, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/TC_001" classname="Test Cases/TC_001" status="PASSED">
+         <system-out><![CDATA[2018-08-03 17:46:37 - [TEST_CASE][PASSED] - Test Cases/TC_001: Test Cases/TC_001
+
+2018-08-03 17:46:37 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-08-03 17:46:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-08-03 17:46:46 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://www.nicecotedazur.org/' successfully
+
+2018-08-03 17:46:53 - [MESSAGE][PASSED] - Navigate to 'http://www.nicecotedazur.org/' successfully
+
+2018-08-03 17:46:53 - [TEST_STEP][PASSED] - verifyElementVisible: Object 'Object Repository/Page_Mtropole NCA Accueil/h1_Lactualit' is visible
+
+2018-08-03 17:46:54 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Mtropole NCA Accueil/h1_Lactualit' is visible
+
+2018-08-03 17:46:54 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '/contenu/les-communes/falicon/14' are selected in object 'Object Repository/Page_Mtropole NCA Accueil/select_Veuillez selectionner u' 
+
+2018-08-03 17:46:57 - [MESSAGE][PASSED] - All options with value '/contenu/les-communes/falicon/14' are selected in object 'Object Repository/Page_Mtropole NCA Accueil/select_Veuillez selectionner u' 
+
+2018-08-03 17:46:57 - [TEST_STEP][PASSED] - verifyElementVisible: Object 'Object Repository/Page_Mtropole NCA Les communes/h1_Falicon' is visible
+
+2018-08-03 17:46:57 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Mtropole NCA Les communes/h1_Falicon' is visible
+
+2018-08-03 17:46:57 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-08-03 17:46:57 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-08-03 17:46:37 - [TEST_SUITE][PASSED] - Suite001: Test Cases/TC_001]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
