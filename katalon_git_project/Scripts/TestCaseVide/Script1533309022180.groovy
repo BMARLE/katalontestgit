@@ -19,14 +19,3 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('http://www.nicecotedazur.org/')
-
-WebUI.click(findTestObject('Object Repository/Page_Mtropole NCA Accueil/h1_Lactualit'))
-
-WebUI.selectOptionByValue(findTestObject('Page_Mtropole NCA Accueil/select_Veuillez selectionner u'), '/contenu/les-communes/falicon/14', 
-    false)
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Mtropole NCA Les communes/h1_Falicon'))
-
