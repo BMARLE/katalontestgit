@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-08-03T17:52:07</date>
+  <millis>1533311527907</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/Suite001</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">Suite001</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/Suite001</property>
+</record>
+<record>
+  <date>2018-08-03T17:52:07</date>
+  <millis>1533311527943</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostName&amp;apos; with value &amp;apos;a124942 - FR-MP1C7NJH.ww930.my-it-solutions.net&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">a124942 - FR-MP1C7NJH.ww930.my-it-solutions.net</property>
+</record>
+<record>
+  <date>2018-08-03T17:52:07</date>
+  <millis>1533311527944</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;os&amp;apos; with value &amp;apos;Windows 7 64bit&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 7 64bit</property>
+</record>
+<record>
+  <date>2018-08-03T17:52:07</date>
+  <millis>1533311527944</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostAddress&amp;apos; with value &amp;apos;10.89.192.52&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">10.89.192.52</property>
+</record>
+<record>
+  <date>2018-08-03T17:52:07</date>
+  <millis>1533311527945</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;katalonVersion&amp;apos; with value &amp;apos;5.6.0.1&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">5.6.0.1</property>
+</record>
+<record>
+  <date>2018-08-03T17:52:08</date>
+  <millis>1533311528432</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/TC_001</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/TC_001</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/TC_001</property>
+  <property name="source">C:\\Users\\A124942\\Desktop\\katalon_git\\katalon_git_project\\Test Cases\\TC_001.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2018-08-03T17:52:08</date>
+  <millis>1533311528455</millis>
+  <sequence>6</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Evaluating variables for test case</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:08</date>
+  <millis>1533311528848</millis>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">22</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2018-08-03T17:52:09</date>
+  <millis>1533311529455</millis>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Opening browser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:09</date>
+  <millis>1533311529466</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Chrome&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:09</date>
+  <millis>1533311529514</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 seconds</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:14</date>
+  <millis>1533311534197</millis>
+  <sequence>12</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;sessionId&amp;apos; with value &amp;apos;68b445810ff15b1ddc9d61e28f3bdf01&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">68b445810ff15b1ddc9d61e28f3bdf01</property>
+</record>
+<record>
+  <date>2018-08-03T17:52:14</date>
+  <millis>1533311534338</millis>
+  <sequence>13</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;browser&amp;apos; with value &amp;apos;Chrome 68.0.3440.84&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Chrome 68.0.3440.84</property>
+</record>
+<record>
+  <date>2018-08-03T17:52:14</date>
+  <millis>1533311534339</millis>
+  <sequence>14</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;platform&amp;apos; with value &amp;apos;Windows 7&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 7</property>
+</record>
+<record>
+  <date>2018-08-03T17:52:14</date>
+  <millis>1533311534343</millis>
+  <sequence>15</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;seleniumVersion&amp;apos; with value &amp;apos;3.7.1&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.7.1</property>
+</record>
+<record>
+  <date>2018-08-03T17:52:14</date>
+  <millis>1533311534345</millis>
+  <sequence>16</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;proxyInformation&amp;apos; with value &amp;apos;ProxyInformation{proxyOption=USE_SYSTEM, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=USE_SYSTEM, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2018-08-03T17:52:14</date>
+  <millis>1533311534349</millis>
+  <sequence>17</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:14</date>
+  <millis>1533311534350</millis>
+  <sequence>18</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:14</date>
+  <millis>1533311534350</millis>
+  <sequence>19</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">24</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2018-08-03T17:52:14</date>
+  <millis>1533311534438</millis>
+  <sequence>20</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking url</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:14</date>
+  <millis>1533311534440</millis>
+  <sequence>21</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigating to &amp;apos;http://www.nicecotedazur.org/&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:18</date>
+  <millis>1533311538625</millis>
+  <sequence>22</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;http://www.nicecotedazur.org/&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:18</date>
+  <millis>1533311538625</millis>
+  <sequence>23</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:18</date>
+  <millis>1533311538626</millis>
+  <sequence>24</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementVisible</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">26</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2018-08-03T17:52:18</date>
+  <millis>1533311538632</millis>
+  <sequence>25</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/Page_Mtropole NCA Accueil/h1_Lactualit&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:18</date>
+  <millis>1533311538659</millis>
+  <sequence>26</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:18</date>
+  <millis>1533311538660</millis>
+  <sequence>27</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:18</date>
+  <millis>1533311538680</millis>
+  <sequence>28</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/Page_Mtropole NCA Accueil/h1_Lactualit&amp;apos; located by &amp;apos;By.xpath: //h1[(text() = concat(&amp;apos;L&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;actualit\u00E9&amp;apos;) or . = concat(&amp;apos;L&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;actualit\u00E9&amp;apos;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:18</date>
+  <millis>1533311538834</millis>
+  <sequence>29</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/Page_Mtropole NCA Accueil/h1_Lactualit&amp;apos; located by &amp;apos;By.xpath: //h1[(text() = concat(&amp;apos;L&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;actualit\u00E9&amp;apos;) or . = concat(&amp;apos;L&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;actualit\u00E9&amp;apos;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:18</date>
+  <millis>1533311538887</millis>
+  <sequence>30</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/Page_Mtropole NCA Accueil/h1_Lactualit&amp;apos; is visible</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:18</date>
+  <millis>1533311538888</millis>
+  <sequence>31</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementVisible</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:18</date>
+  <millis>1533311538888</millis>
+  <sequence>32</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : selectOptionByValue</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">28</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2018-08-03T17:52:18</date>
+  <millis>1533311538889</millis>
+  <sequence>33</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/Page_Mtropole NCA Accueil/select_Veuillez selectionner u&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:18</date>
+  <millis>1533311538907</millis>
+  <sequence>34</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:18</date>
+  <millis>1533311538908</millis>
+  <sequence>35</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking value parameter</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:18</date>
+  <millis>1533311538908</millis>
+  <sequence>36</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:18</date>
+  <millis>1533311538909</millis>
+  <sequence>37</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/Page_Mtropole NCA Accueil/select_Veuillez selectionner u&amp;apos; located by &amp;apos;By.xpath: //select[@id = &amp;apos;selection_commune&amp;apos; and (text() = &amp;apos;\n\t\t\t\t\t\t\tVeuillez selectionner une commune\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tAspremont\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBairols\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBeaulieu-sur-Mer\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBelv\u00E9d\u00E8re\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBonson\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tCagnes-sur-Mer\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tCap d\u2019Ail\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tCarros\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tCastagniers\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tClans\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tColomars\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tDuranus\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tEze\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tFalicon\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGatti\u00E8res\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGilette\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIlonse\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIsola\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLa Boll\u00E8ne V\u00E9subie\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLa Gaude\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLa Roquette sur Var\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLa Tour sur Tin\u00E9e\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLa Trinit\u00E9\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLantosque\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLe Broc\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLevens\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tMarie\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tNice\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tRimplas\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tRoquebilli\u00E8re\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tRoubion\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tRoure\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint Jean Cap Ferrat\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Andr\u00E9 de la Roche\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Blaise\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Dalmas le Selvage\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Etienne-de-Tin\u00E9e\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Jeannet\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Laurent-du-Var\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Martin-du-Var\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Martin-V\u00E9subie\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Sauveur-sur-Tin\u00E9e\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tTournefort\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tTourrette-Levens\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tUtelle\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tValdeblore\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tVenanson\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tVence\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tVillefranche-sur-Mer\n\t\t\t\t\t\t\t\t\t\t\t\t\t&amp;apos; or . = &amp;apos;\n\t\t\t\t\t\t\tVeuillez selectionner une commune\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tAspremont\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBairols\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBeaulieu-sur-Mer\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBelv\u00E9d\u00E8re\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBonson\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tCagnes-sur-Mer\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tCap d\u2019Ail\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tCarros\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tCastagniers\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tClans\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tColomars\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tDuranus\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tEze\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tFalicon\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGatti\u00E8res\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGilette\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIlonse\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIsola\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLa Boll\u00E8ne V\u00E9subie\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLa Gaude\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLa Roquette sur Var\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLa Tour sur Tin\u00E9e\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLa Trinit\u00E9\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLantosque\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLe Broc\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLevens\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tMarie\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tNice\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tRimplas\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tRoquebilli\u00E8re\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tRoubion\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tRoure\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint Jean Cap Ferrat\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Andr\u00E9 de la Roche\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Blaise\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Dalmas le Selvage\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Etienne-de-Tin\u00E9e\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Jeannet\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Laurent-du-Var\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Martin-du-Var\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Martin-V\u00E9subie\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Sauveur-sur-Tin\u00E9e\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tTournefort\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tTourrette-Levens\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tUtelle\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tValdeblore\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tVenanson\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tVence\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tVillefranche-sur-Mer\n\t\t\t\t\t\t\t\t\t\t\t\t\t&amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:19</date>
+  <millis>1533311539028</millis>
+  <sequence>38</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/Page_Mtropole NCA Accueil/select_Veuillez selectionner u&amp;apos; located by &amp;apos;By.xpath: //select[@id = &amp;apos;selection_commune&amp;apos; and (text() = &amp;apos;\n\t\t\t\t\t\t\tVeuillez selectionner une commune\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tAspremont\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBairols\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBeaulieu-sur-Mer\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBelv\u00E9d\u00E8re\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBonson\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tCagnes-sur-Mer\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tCap d\u2019Ail\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tCarros\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tCastagniers\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tClans\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tColomars\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tDuranus\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tEze\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tFalicon\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGatti\u00E8res\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGilette\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIlonse\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIsola\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLa Boll\u00E8ne V\u00E9subie\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLa Gaude\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLa Roquette sur Var\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLa Tour sur Tin\u00E9e\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLa Trinit\u00E9\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLantosque\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLe Broc\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLevens\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tMarie\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tNice\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tRimplas\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tRoquebilli\u00E8re\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tRoubion\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tRoure\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint Jean Cap Ferrat\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Andr\u00E9 de la Roche\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Blaise\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Dalmas le Selvage\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Etienne-de-Tin\u00E9e\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Jeannet\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Laurent-du-Var\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Martin-du-Var\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Martin-V\u00E9subie\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Sauveur-sur-Tin\u00E9e\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tTournefort\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tTourrette-Levens\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tUtelle\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tValdeblore\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tVenanson\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tVence\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tVillefranche-sur-Mer\n\t\t\t\t\t\t\t\t\t\t\t\t\t&amp;apos; or . = &amp;apos;\n\t\t\t\t\t\t\tVeuillez selectionner une commune\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tAspremont\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBairols\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBeaulieu-sur-Mer\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBelv\u00E9d\u00E8re\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBonson\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tCagnes-sur-Mer\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tCap d\u2019Ail\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tCarros\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tCastagniers\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tClans\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tColomars\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tDuranus\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tEze\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tFalicon\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGatti\u00E8res\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGilette\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIlonse\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIsola\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLa Boll\u00E8ne V\u00E9subie\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLa Gaude\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLa Roquette sur Var\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLa Tour sur Tin\u00E9e\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLa Trinit\u00E9\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLantosque\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLe Broc\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tLevens\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tMarie\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tNice\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tRimplas\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tRoquebilli\u00E8re\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tRoubion\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tRoure\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint Jean Cap Ferrat\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Andr\u00E9 de la Roche\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Blaise\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Dalmas le Selvage\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Etienne-de-Tin\u00E9e\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Jeannet\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Laurent-du-Var\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Martin-du-Var\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Martin-V\u00E9subie\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaint-Sauveur-sur-Tin\u00E9e\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tTournefort\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tTourrette-Levens\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tUtelle\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tValdeblore\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tVenanson\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tVence\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tVillefranche-sur-Mer\n\t\t\t\t\t\t\t\t\t\t\t\t\t&amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:19</date>
+  <millis>1533311539399</millis>
+  <sequence>39</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Selecting options on object &amp;apos;Object Repository/Page_Mtropole NCA Accueil/select_Veuillez selectionner u&amp;apos; with value &amp;apos;/contenu/les-communes/falicon/14&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:21</date>
+  <millis>1533311541742</millis>
+  <sequence>40</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>All options with value &amp;apos;/contenu/les-communes/falicon/14&amp;apos; are selected in object &amp;apos;Object Repository/Page_Mtropole NCA Accueil/select_Veuillez selectionner u&amp;apos; </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:21</date>
+  <millis>1533311541745</millis>
+  <sequence>41</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : selectOptionByValue</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:21</date>
+  <millis>1533311541746</millis>
+  <sequence>42</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementVisible</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">31</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2018-08-03T17:52:21</date>
+  <millis>1533311541749</millis>
+  <sequence>43</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/Page_Mtropole NCA Les communes/h1_Falicon&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:21</date>
+  <millis>1533311541754</millis>
+  <sequence>44</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:21</date>
+  <millis>1533311541755</millis>
+  <sequence>45</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:21</date>
+  <millis>1533311541755</millis>
+  <sequence>46</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/Page_Mtropole NCA Les communes/h1_Falicon&amp;apos; located by &amp;apos;By.xpath: //h1[(text() = &amp;apos;Falicon&amp;apos; or . = &amp;apos;Falicon&amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:21</date>
+  <millis>1533311541789</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/Page_Mtropole NCA Les communes/h1_Falicon&amp;apos; located by &amp;apos;By.xpath: //h1[(text() = &amp;apos;Falicon&amp;apos; or . = &amp;apos;Falicon&amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:21</date>
+  <millis>1533311541817</millis>
+  <sequence>48</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/Page_Mtropole NCA Les communes/h1_Falicon&amp;apos; is visible</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:21</date>
+  <millis>1533311541818</millis>
+  <sequence>49</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementVisible</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:21</date>
+  <millis>1533311541819</millis>
+  <sequence>50</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : closeBrowser</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">33</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2018-08-03T17:52:21</date>
+  <millis>1533311541883</millis>
+  <sequence>51</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Closing browser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:23</date>
+  <millis>1533311543267</millis>
+  <sequence>52</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is closed</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:23</date>
+  <millis>1533311543271</millis>
+  <sequence>53</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : closeBrowser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:23</date>
+  <millis>1533311543272</millis>
+  <sequence>54</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/TC_001</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:23</date>
+  <millis>1533311543273</millis>
+  <sequence>55</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/TC_001</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-08-03T17:52:23</date>
+  <millis>1533311543318</millis>
+  <sequence>56</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/Suite001</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>
